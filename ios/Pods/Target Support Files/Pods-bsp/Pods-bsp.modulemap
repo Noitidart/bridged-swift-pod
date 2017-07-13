@@ -1,0 +1,6 @@
+framework module Pods_bsp {
+  umbrella header "Pods-bsp-umbrella.h"
+
+  export *
+  module * { export * }
+}
